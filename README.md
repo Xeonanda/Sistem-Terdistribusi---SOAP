@@ -7,7 +7,7 @@ Proyek ini menunjukkan cara membuat layanan SOAP paling dasar, pada projek ini, 
 - Layanan SOAP dengan satu method: `say_hello(name)`
 - Mengembalikan respons XML dengan output `Hello {name}`
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Pastikan Python 3.11 terpasang (Spyne belum kompatibel dengan Python 3.13).
 2. Install dependensi:
